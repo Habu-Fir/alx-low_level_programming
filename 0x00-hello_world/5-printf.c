@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /*
  * this program display with proper grammar, 
  * but the outcome is a piece of art, using printf*/
