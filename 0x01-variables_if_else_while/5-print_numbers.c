@@ -4,15 +4,13 @@
  * followed by new line
  * Return : always 0 success
  */
-int main (void)
+int main(void)
 {
 	int i;
 
-	for (int i = 0; i < 9; i++)
-	{
-		printf(i);
-	}
-	printf("%d\n");
+	for (i = 0; i < 10; i++)
+		printf("%d", i);
+	printf("\n");
 	return (0);
 
 }
