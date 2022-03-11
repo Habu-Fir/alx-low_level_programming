@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints the numbers from 00 to 99
+ * main - prints the numbers from 01 to 89
  * Return: Always 0 (success)
  */
 int main(void)
@@ -14,7 +14,7 @@ int main(void)
 		{
 			putchar(n);
 			putchar(m);
-			if (n != 57 || m != 57)
+			if (n != 56 || m != 57)
 			{
 				putchar(',');
 				putchar(' ');
