@@ -1,0 +1,2 @@
+file creating    astatic variable
+
